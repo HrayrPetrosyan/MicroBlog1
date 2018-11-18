@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.mynav, nav a {
+  font-size: 1.2em
+}
